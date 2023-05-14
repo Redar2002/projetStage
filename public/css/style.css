@@ -1,0 +1,45 @@
+.logo{
+    margin-left: 50%;
+}
+.h1{
+    color: rgb(99, 106, 106);
+    margin-left: 26%;
+    margin-bottom: 40px;
+}
+.h2{
+    padding: 10px;
+    text-align: center;
+    color: rgb(114, 109, 102);
+    padding-right: 10px;
+}
+.wppro{
+    text-align: center;
+   
+}
+.apropos{
+    text-align: center;
+}
+.cope{
+ width: 70%; 
+ margin-left: 13%;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+.footer-links {
+    margin-top: 10px;
+}
+
+.footer-links a {
+    color: #fff;
+    margin-right: 10px;
+}
